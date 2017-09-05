@@ -1,0 +1,1000 @@
+  180  top
+  181  sudo apt-get install thunderbird
+  182  sudo apt-get install make
+  183  sudo apt-get install automake
+  184  cat /proc/cpuinfo
+  185  cat /proc/flags
+  186  cat /proc/buddyinfo 
+  187  ls
+  188  df
+  189  screenfetch
+  190  sudo apt-get install screenfetch
+  191  screenfetch
+  192  sudo apt-get install vlc
+  193  top
+  194  alsamixer
+  195  exit
+  196  top
+  197  df
+  198  dmesg
+  199  df
+  200  sudo df
+  201  dmesg
+  202  df
+  203  dmesg
+  204  sudo mount /dev/sdb1
+  205  sudo apt-get install pip
+  206  cacl
+  207  calc
+  208  sudo apt-get install calculator
+  209  sudo apt-get install calc
+  210  sudo apt-get update
+  211  sudo apt-get upgrade
+  212  telegram
+  213  cd Descargas/
+  214  ls
+  215  cd tsetup.0.10.1.tar.xz 
+  216  cd Telegram/
+  217  ls
+  218  ./Telegram 
+  219  sudo reboot 
+  220  screenfetch
+  221  nmcli device wifi list
+  222  youtube-dl https://www.youtube.com/watch?v=lHXgNn18z90
+  223  sudo apt-get install youtube-dl
+  224  youtube-dl https://www.youtube.com/watch?v=lHXgNn18z90
+  225  nmcli device wifi list
+  226  telegram
+  227  cd Descargas/
+  228  ls
+  229  cd Telegram/
+  230  ./Telegram 
+  231  cal
+  232  cal -y
+  233  cal -c
+  234  date
+  235  cal dATE
+  236  cal date
+  237  cal | date
+  238  cal
+  239  cal && date
+  240  ifconfig
+  241  ls -ltr
+  242  exit
+  243  sudo apt-get update
+  244  sudo apt-get upgrade
+  245  gender
+  246  ss
+  247  sudo ss
+  248  ss
+  249  df
+  250  dmesg
+  251  ping 172.16.13.20
+  252  dmesg
+  253  not
+  254  ls
+  255  df
+  256  ifconfig
+  257  ping 8.8.8.8
+  258  ifconfig
+  259  cd ~bill
+  260  ps -ef
+  261  bc -l
+  262  ls
+  263  bc
+  264  mapbox
+  265  df
+  266  sudo umount sdb*
+  267  sudo umount sdb2
+  268  df
+  269  sudo umount /dev/sdb*
+  270  sudo mkfs.fat /dev/sdb2
+  271  sudo mkfs.fat /dev/sdb3
+  272  sudo mkfs.fat /dev/sdb4
+  273  d
+  274  df
+  275  cups-calibrate 
+  276  xkill
+  277  sudo mount /dev/cdrom
+  278  sudo mount /dev/*
+  279  df
+  280  xkill
+  281  EXIYT
+  282  EXIRT
+  283  EXIT+
+  284  EXIT
+  285  exit
+  286  top
+  287  qqq
+  288  qq
+  289  q
+  290  w
+  291  scal -y
+  292  cal
+  293  calculator
+  294  sum
+  295  fd
+  296  df
+  297  ñop
+  298  show to personalice a comand
+  299  gf
+  300  g
+  301  h
+  302  j
+  303  k
+  304  gr
+  305  scsemxhwvshx
+  306  dañf
+  307  sf
+  308  e
+  309  sd
+  310  a
+  311  gf
+  312  t
+  313  h
+  314  rafAGHYTJH
+  315  E
+  316  Q
+  317  d
+  318  hyj
+  319  n
+  320  bca
+  321  xzwcA
+  322  date
+  323  date && df
+  324  LOl
+  325  ls
+  326  sl
+  327  exit
+  328  sudoarduino
+  329  sudo arduino
+  330  sudo apt-get update
+  331  sudo apt-get upgrade
+  332  ls /dev/ACM*
+  333  ls /dev/
+  334  cd /dev
+  335  ls
+  336  sudo usermod -a -G dialout $zaifehr
+  337  sudo usermod -a -G plugdev $zaifehr
+  338  udo apt-get install u-boot-tools android-tools-fastboot git build-essential curl android-tools-fsutils libusb-1.0-0-dev pkg-config
+  339  sudo apt-get install u-boot-tools android-tools-fastboot git build-essential curl android-tools-fsutils libusb-1.0-0-dev pkg-config
+  340  sudo apt autoremove
+  341  sudo apt-get install u-boot-tools android-tools-fastboot git build-essential curl android-tools-fsutils libusb-1.0-0-dev pkg-config
+  342  sudo add-apt-repository universe && sudo apt-get update
+  343  sudo apt-get install u-boot-tools android-tools-fastboot git build-essential curl android-tools-fsutils libusb-1.0-0-dev pkg-config
+  344  sudo apt-get install libncurses5-dev libc6-i386 lib32stdc++6 lib32z1
+  345  cd git clone http://github.com/NextThingCo/sunxi-tools
+  346  cd /home
+  347  ls
+  348  cd zaifehr/
+  349  ls
+  350  git clone http://github.com/NextThingCo/sunxi-tools
+  351  cd sunxi-tools/
+  352  make
+  353  sudo rm -f /usr/local/bin/fel
+  354  sudo ln -s $PWD/fel /usr/local/bin/fel
+  355  cd ..
+  356  git clone http://github.com/NextThingCo/CHIP-tools
+  357  cd CHIP-tools/
+  358  ls
+  359  gir pull
+  360  git pull
+  361  ls
+  362  ./chip-update-firmware.sh 
+  363  ls
+  364  ./chip-fel-fastboot.sh 
+  365  ls
+  366  ./chip-fel-flash.sh 
+  367  ./verify.sh 
+  368  import serial
+  369  ./verify.sh 
+  370  ls
+  371  cd CHIP-tools/
+  372  ls
+  373  ./chip-flash
+  374  ./verify.sh 
+  375  ./chip-flash 
+  376  ls
+  377  ./chip-fel-upload.sh 
+  378  sudo ./chip-update-firmware.sh 
+  379  ls
+  380  nano chip-update-firmware.sh 
+  381  vi chip-update-firmware.sh 
+  382  ls
+  383  cd /
+  384  ls
+  385  cd /etc/
+  386  ls
+  387  cd init.d/
+  388  ls
+  389  cat README 
+  390  ls
+  391  cat hwclock.sh 
+  392  exit
+  393  top
+  394  clear
+  395  presentación ejecutiva
+  396  que hace mi proyecto
+  397  que no hace
+  398  que es lo que más aprendí con él 
+  399  que es lo que ya sabía 
+  400  history > hola
+  401  ls
+  402  cat hola
+  403  que es lo que más trabajo costó 
+  404  cuanto tiempo le dedique realmente
+  405  cómo puedo mejorarlo
+  406  como podemos mejorar todos
+  407  me <<<<==== ?
+  408  para el jueves
+  409  documentación
+  410  history > requisitos.txt 
+  411  ls
+  412  cat requisitos.txt 
+  413  sudo chromium-browser 
+  414  sudo chromium-browser
+  415  sudo chromium
+  416  sudo apt-get update
+  417  sudo apt-get upgrade
+  418  sudo dpkg -i google-chrome-stable_current_amd64.deb.
+  419  sudo apt-get install nano
+  420  uname -a
+  421  ubuntu --v
+  422  ubuntu
+  423  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  424  sudo apt-get -f install
+  425  sudo apt-get install libxss1 libnss3-1d libgconf2-4
+  426  https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  427  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  428  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  429  sudo google-chrome-stable
+  430  google-chrome-stable
+  431  ls
+  432  cd CHIP-tools/
+  433  ls
+  434  sudo ./chip-fel-upload.sh
+  435  git push
+  436  sudo ./chip-update-firmware.sh 
+  437  wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  438  sudo aptitude update && sudo aptitude install libappindicator1
+  439  sudo apt-get update && sudo apt-get install libappindicator1
+  440  sudo /usr/bin/chromium-browser --profile-directory=Default --app-id=bpohdfcdfghdcgflomadkijfdgalcgoi
+  441  chmod 777 -r /usr/bin/chromium-browser/
+  442  chmod 777 -r /usr/bin/chromium-browser/*
+  443  chmod 777 -rf /usr/bin/chromium-browser/*
+  444  chmod 777 -r -f /usr/bin/chromium-browser/*
+  445  chmod 777 -rf /usr/bin/chromium-browser/*cd
+  446  sudo usermod -a -G dialout $(logname)
+  447  sudo usermod -a -G plugdev $(logname)
+  448  echo -e 'SUBSYSTEM=="usb", ATTRS{idVendor}=="1f3a", ATTRS{idProduct}=="efe8", GROUP="plugdev", MODE="0660" SYMLINK+="usb-chip"
+  449  SUBSYSTEM=="usb", ATTRS{idVendor}=="18d1", ATTRS{idProduct}=="1010", GROUP="plugdev", MODE="0660" SYMLINK+="usb-chip-fastboot"
+  450  SUBSYSTEM=="usb", ATTRS{idVendor}=="1f3a", ATTRS{idProduct}=="1010", GROUP="plugdev", MODE="0660" SYMLINK+="usb-chip-fastboot"
+  451  SUBSYSTEM=="usb", ATTRS{idVendor}=="067b", ATTRS{idProduct}=="2303", GROUP="plugdev", MODE="0660" SYMLINK+="usb-serial-adapter"
+  452  ' | sudo tee /etc/udev/rules.d/99-allwinner.rules
+  453  sudo udevadm control --reload-rules
+  454  apt-get install laptop-mode-tools
+  455  sudo apt-get install laptop-mode-tools
+  456  sudo -i
+  457  ifconfig
+  458  ping 10.0.2.15
+  459  ping http://192.168.6.34/
+  460  ping 192.168.6.34
+  461  ping 192.168.6.34:80000
+  462  ping 192.168.6.34
+  463  ifconfig
+  464  sudo ssh root@10.39.224.196
+  465  ping @10.39.224.196:22
+  466  ping 10.39.224.196:22
+  467  ping 10.39.224.196
+  468  ping 10.39.224
+  469  sudo ssh root@10.39.224.198
+  470  history
+  471  ping 10.39.224.1
+  472  ping 10.39.224.2
+  473  df
+  474  sudo umont /dev/sdb1
+  475  sudo umount /dev/sdb1
+  476  sudo mkfs.fat /dev/sdb1
+  477  sudo mount /dev/sdb1
+  478  df
+  479  sudo apt-get install -f
+  480  sudo apt-get install lib32asound2
+  481  sudo apt-get install liba-32
+  482  sudo apt-get install lib32a*
+  483  ls
+  484  cd Descargas/
+  485  ls
+  486  chmod 777 epsxe_x64
+  487  ls
+  488  ./epsxe_x64 
+  489  sudo ./epsxe_x64 
+  490  xkill
+  491  sudo apt-get install rar
+  492  sudo ./epsxe_x64 
+  493  xkill
+  494  sudo ./epsxe_x64 
+  495  xkill
+  496  sudo ./epsxe_x64 
+  497  xkill
+  498  sudo ./epsxe_x64 
+  499  ls
+  500  cd CHIP-tools/
+  501  ls
+  502  ./verify.sh 
+  503  ./chip-fel-fastboot.sh 
+  504  ls
+  505  cd CHIP-tools/
+  506  ls
+  507  sudo ./verify.sh 
+  508  sudo ./common.sh 
+  509  cd
+  510  df
+  511  sudo umount /dev/sdb2
+  512  sudo mkfs.vfat /dev/sdb2 
+  513  sudo umount /dev/sdb2
+  514  sudo mkfs.vfat /dev/sdb2 
+  515  df
+  516  sudo mkfs.vfat /dev/sdb2 
+  517  df
+  518  cd /media/zaifehr/06722726722719C7/
+  519  df
+  520  sudo umount /dev/sdb2
+  521  sudo mkfs.vfat /dev/sdb2 
+  522  df
+  523  cd Descargas/
+  524  ls
+  525  mv Bypass.apk /media/zaifehr/06722726722719C7/
+  526  bc
+  527  exit
+  528  close
+  529  exit
+  530  exit -f
+  531  bc
+  532  sudo apt-get update
+  533  sudo apt-get upgrade
+  534  sudo apt-get install gimp
+  535  sudo apt-get install libreoffice
+  536  sudo apt-get install impresive
+  537  sudo apt-get install impressive
+  538  sudo apt-get install gcc
+  539  sudo reboot
+  540  ifconfig
+  541  ping 8.8.8.8
+  542  df
+  543  ss
+  544  ping 8.8.8.8
+  545  ss
+  546  -ss
+  547  sudo ss
+  548  sdf
+  549  ls
+  550  sl
+  551  git clone https://gerrit.zephyrproject.org/r/zephyr && cd zephyr && git checkout tags/v1.7.0
+  552  https://www-ssl.intel.com/content/www/xl/es/industrial-automation/overview.html#
+  553  pwd
+  554  cd ..
+  555  ls
+  556  youtube-dl http://www.intel.la/content/www/xl/es/industrial-automation/products-and-solutions/industrial-energy-solutions-video.html
+  557  sudo youtube-dl http://www.intel.la/content/www/xl/es/industrial-automation/products-and-solutions/industrial-energy-solutions-video.html
+  558  youtube-dl https://www-ssl.intel.com/content/www/xl/es/industrial-automation/overview.html
+  559  youtube-dl //players.brightcove.net/734546229001/default_default/index.html?videoId=4404390274001
+  560  df
+  561  ss
+  562  apt-cache policy docker-engine
+  563  sudo apt-cache policy docker-engine
+  564  sudo apt-get install docker-engine
+  565  los
+  566  ls
+  567  rd
+  568  q
+  569  w
+  570  sudo apt-get install apt-transport-https ca-certificates
+  571  sudo apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
+  572  deb https://apt.dockerproject.org/repo ubuntu-xenial main
+  573  sudo apt-get update
+  574  ls /dev
+  575  dmesg
+  576  cd Escritorio/
+  577  ls
+  578  impressive -z iot\ en\ la\ vida\ real.pdf 
+  579  impressive iot\ en\ la\ vida\ real.pdf 
+  580  cd Escritorio/
+  581  la
+  582  ls
+  583  ls -la
+  584  impressive chip.pdf 
+  585  alsamixer
+  586  sudo apt-get install pulseaudio
+  587  htop
+  588  sudo apt-get update
+  589  sudo apt-get upgrade
+  590  sudo reboot
+  591  sudo apt-get install gnustep
+  592  cd /media/zaifehr/OMAR/
+  593  ls
+  594  ls -la
+  595  cd .Trash-1000/
+  596  ls
+  597  cd info/
+  598  cd files
+  599  cd ..
+  600  cd files/
+  601  ls
+  602  rm *
+  603  ls
+  604  ls -la
+  605  cd ..
+  606  la
+  607  ls
+  608  ls -la
+  609  df
+  610  sudo umount /dev/sdb1
+  611  ifconfig
+  612  ping 8.8.8.
+  613  ping 8.8.8.8
+  614  ifconfig
+  615  ping 8.8.8.8
+  616  ifconfig
+  617  ping 8.8.8.8
+  618  uname -a
+  619  alsamixer
+  620  exit
+  621  xkill
+  622  EXIT
+  623  exit
+  624  df
+  625  exit
+  626  df
+  627  ls
+  628  cd
+  629  sudo df
+  630  sudo mount /dev/sdb1
+  631  ok
+  632  ok = $clear
+  633  echo ok = $clear
+  634  ok= $clear
+  635  ok
+  636  $ok
+  637  clear=ok
+  638  ok
+  639  clear==ok
+  640  ok
+  641  echo #date
+  642  echo $date
+  643  echo date
+  644  date
+  645  ok
+  646  echo date 
+  647  df
+  648  sudo df
+  649  sudo umount /dev/sdb2
+  650  sudo mkfs.exfat /dev/sdb2 -m "cesanto"
+  651  sudo mkfs.ntfs /dev/sdb2 -m "cesanto"
+  652  sudo mkfs.ntfs /dev/sdb2
+  653  sudo mount /dev/sdb*
+  654  df
+  655  sudo mount /dev/sdb2
+  656  ls /etc/fstab
+  657  cat  /etc/fstab
+  658  dmesg
+  659  sudo mount /dev/sdb2
+  660  ls
+  661  df
+  662  dmesg
+  663  df
+  664  sudo mkfs.ntfs /dev/sdb2
+  665  df
+  666  dmesg
+  667  sudo mkfs.vfat /dev/sdb2
+  668  sudo reboot
+  669  df
+  670  sudo mount /dev/sdb1
+  671  sudo mkfs.vfat /dev/sdb1
+  672  sudo mount /dev/sdd1
+  673  sudo mkfs.vfat /dev/sdd1
+  674  cd Escritorio/
+  675  ls
+  676  impressive INDUSTRIA\ 4.0.pdf 
+  677  cd /media/zaifehr/1/
+  678  ls
+  679  cd CISOL/
+  680  ls
+  681  impressive INDISTRIA 4.0.pdf
+  682  ls -la
+  683  sudo reboot
+  684  conasistan
+  685  comasistan
+  686  home asistan
+  687  homeassitand.py
+  688  sudo apt-get install python3
+  689  pip 3homeassitant
+  690  sudo apt-get install pip
+  691  sudo apt-get install pyp
+  692  pip 3homeassitant
+  693  sudo apt-get install pyp3
+  694  sudo apt-get install pyp 3 home assitant
+  695  sudo apt-get install pyp 3homeassitant
+  696  history
+  697  ping 192.168.1.100
+  698  ssh @@
+  699  ssh root@192.168.1.100
+  700  ssh hochob@192.168.1.100
+  701  sudo apt-get install minicom
+  702  history
+  703  sudo apt-get update
+  704  sudo apt-get upgrade
+  705  df
+  706  df
+  707  sudo mount /dev/sdb1
+  708  df
+  709  sudo mount /dev/sdb1
+  710  sudo mount /dev/sdb*
+  711  bq
+  712  b
+  713  bt
+  714  calc
+  715  cal
+  716  date
+  717  date 20 -y
+  718  date -y 20
+  719  date -y
+  720  date --y
+  721  date -y 2017
+  722  date-y 2017
+  723  calc -y 2017
+  724  calc -y 
+  725  calc
+  726  cal
+  727  cal -y
+  728  cal -y 20
+  729  cal -y 2017
+  730  sudo mount /*
+  731  df
+  732  df
+  733  sudo umount /dev/sdb1
+  734  sudo mkfs.fat /dev/sdb1
+  735  df
+  736  sudo mount /dev/sdb1
+  737  ls
+  738  df
+  739  sudo umount /dev/sdb1
+  740  sudo mkfs.vfat /dev/sdb1
+  741  sudo umount /dev/sdb1
+  742  sudo mkfs.ext2 /dev/sdb1
+  743  df
+  744  sudo mkfs.ext3 /dev/sdb1
+  745  sudo mount /dev/sdb2
+  746  ls
+  747  df
+  748  fabstat
+  749  stat
+  750  stats
+  751  stu,m
+  752  df
+  753  sudo cd /media/zaifehr/
+  754  cd /media/zaifehr/
+  755  ls
+  756  ls -la
+  757  ls
+  758  df
+  759  ls
+  760  cd
+  761  cd /media/zaifehr/
+  762  ls
+  763  cd 11E8-EDC4/
+  764  ls
+  765  ok
+  766  close
+  767  exit
+  768  teamviewer
+  769  sudo apt-get update
+  770  sudo apt-get upgrade
+  771  df
+  772  sudo apt-get install git make gcc g++ ncurses-dev       doxygen dfu-util device-tree-compiler
+  773  curl -O 'https://bootstrap.pypa.io/get-pip.py'
+  774  ./get-pip.py
+  775  ls
+  776  sudo ./get-pip.py
+  777  chmod 777 get-pip.py
+  778  ./get-pip.py
+  779  pip install --upgrade pip
+  780  pip install --upgrade 
+  781  ./get-pip.py
+  782  rm get-pip.py
+  783  pip3 install -r scripts/requirements.txt
+  784  sudo apt-get install python3 pip3
+  785  sudo apt-get install python3
+  786  wget https://github.com/zephyrproject-rtos/meta-zephyr-sdk/releases/download/0.9.1/zephyr-sdk-0.9.1-setup.run
+  787  chmod +x zephyr-sdk-0.9.1-setup.run
+  788  ./zephyr-sdk-0.9.1-setup.run 
+  789  sudo ./zephyr-sdk-0.9.1-setup.run 
+  790  ls
+  791  cd zephyr
+  792  ls
+  793  sudo make
+  794  sudo make install
+  795  sudo automake
+  796  sudo make /
+  797  sudo make
+  798  gcc make
+  799  make
+  800  sudo make
+  801  ls
+  802  ls-la
+  803  ls -la
+  804  export ZEPHYR_GCC_VARIANT=zephyr
+  805  export ZEPHYR_SDK_INSTALL_DIR= /opt/zephyr-sdk/
+  806  export ZEPHYR_SDK_INSTALL_DIR= /opt/zephyr-sdk/sysroots/
+  807  sudo export ZEPHYR_SDK_INSTALL_DIR= /opt/zephyr-sdk/sysroots/
+  808  sudo export ZEPHYR_SDK_INSTALL_DIR= /home/zaifehr/zephyr
+  809  export ZEPHYR_SDK_INSTALL_DIR= /home/zaifehr/zephyr
+  810  ls
+  811  sudo make
+  812  sudo make install
+  813  sudo automake
+  814  sudo automak
+  815  cd /opt/
+  816  ls
+  817  cd zephyr-sdk/
+  818  ls
+  819  cd sysroots/
+  820  ls
+  821  export ZEPHYR_SDK_INSTALL_DIR= /opt/zephyr-sdk/
+  822  down vote
+  823  favorite
+  824  I have tried entering:
+  825  sudo apt install python3-pip
+  826  pip3 install -r scripts/requirements.txt
+  827  pip3 install --upgrade pip
+  828  pip3 install --update pip
+  829  pip3 install --upgrade pip3
+  830  pip3 install --upgrade pip
+  831  pip3 install -r scripts/requirements.txt
+  832  ls
+  833  pip3 install -r scripts/requisitos.txt
+  834  cat requisitos.txt 
+  835  ls
+  836  curl -O 'https://bootstrap.pypa.io/get-pip.py'
+  837  ls
+  838  chmod 777 get-pip.py 
+  839  ./get-pip.py 
+  840  pip3 install -r scripts/requirements.txt
+  841  ls -la
+  842  top
+  843  s
+  844  sudo apt-get update
+  845  sudo apt-get upgrade
+  846  htop
+  847  ping cesantoni.endtoend.com.mx
+  848  sudo apot-get update
+  849  sudo apt-get update
+  850  sudo apt-get upgrade
+  851  sudo apt-get update
+  852  sudo apt-get upgrade
+  853  df
+  854  ss
+  855  sudo ss
+  856  htop
+  857  sudo ss
+  858  ls
+  859  mkdir owndrivers
+  860  cd owndrivers/
+  861  ls
+  862  mkdir 03092017
+  863  ls
+  864  cd 03092017/
+  865  ls
+  866  nano nada.c
+  867  chmod 777 nada.c 
+  868  LS
+  869  ls
+  870  gcc -c nada.c 
+  871  sudo gcc -I /usr/src/linux-headers-4.4.0-83-generic/include -O -Wall -c nada.c
+  872  ls -la
+  873  insmod nada.o
+  874  gcc -o nada.o -c nada.c 
+  875  sudo apt-get install gcc
+  876  sudo apt-get autoremove
+  877  find module.h
+  878  find module.h /
+  879  ls
+  880  cd owndrivers/
+  881  ls
+  882  cd 03092017/
+  883  ls
+  884  ls -la
+  885  nano nada.c 
+  886  sudo apt-get install gcc
+  887  sudo gcc -o nada.c nada.o
+  888  gcc -o nada.c nada.o
+  889  gcc -c nada.c
+  890  ls -la
+  891  nano nada.c 
+  892  man gcc
+  893  sudo apt-get install build-essential
+  894  nano c2.c
+  895  sudo chmod 777
+  896  sudo chmod 777 c2.c 
+  897  ls
+  898  gcc -wall c2.c -o
+  899  gcc -Wall c2.c -o
+  900  gcc -Wall c2.c -o pruebac
+  901  ls
+  902  ./pruebac 
+  903  gcc -c c2.c 
+  904  ls
+  905  insmod c2.o
+  906  sudo insmod c2.o
+  907  ls
+  908  primerdriver.c
+  909  nano primerdriver.c
+  910  gcc -c primerdriver.c
+  911  nano primerdriver.c 
+  912  gcc -c primerdriver.c
+  913  nano primerdriver.c 
+  914  gcc -c primerdriver.c
+  915  nano primerdriver.c 
+  916  gcc -c primerdriver.c
+  917  ls
+  918  chmod 777 primerdriver.c 
+  919  ls
+  920  ./primerdriver.c
+  921  nano primerdriver.c 
+  922  gcc -c primerdriver.c
+  923  ls /dev/p*
+  924  mkdon /dev/puertopar c 61 0
+  925  mknod /dev/puertopar c 61 0
+  926  sudo mknod /dev/puertopar c 61 0
+  927  ls /dev/p*
+  928  sudo rmnod /dev/puertopar 
+  929  sudo mknod /dev/GPIOtousb3300 c 61 0
+  930  ls /dev/
+  931  cd
+  932  ls
+  933  cd Descargas/
+  934  ls
+  935  cd ls
+  936  cd
+  937  ls
+  938  cd owndrivers/
+  939  ls
+  940  mkdir 04092017
+  941  cd 04092017/
+  942  ls
+  943  nano ulpi.c
+  944  chmod 777 ulpi.c 
+  945  ls
+  946  gcc -c ulpi.c 
+  947  ls -la
+  948  exit
+  949  cd /usr/
+  950  ls
+  951  cd src/
+  952  ls
+  953  uname -a
+  954  cd linux-headers-4.4.0-83-generic/
+  955  ls
+  956  cd include/
+  957  ls
+  958  pwd
+  959  cd include
+  960  insmod
+  961  sudo insmod
+  962  sudo apt.get install insmod
+  963  sudo apt-get install insmod
+  964  modinfo
+  965  ls -R /lib/modoles
+  966  ls -R /lib/modules/
+  967  ls /lib/modules/
+  968  ls /lib/modules/4.4.0-83-generic/
+  969  ls
+  970  LS
+  971  ls
+  972  ls /lib/modules/4.4.0-83-generic/
+  973  cd /lib/modules/4.4.0-83-generic/
+  974  ls
+  975  cd /lib/modules/4.4.0-83-generic/cd kernel/
+  976  ls
+  977  cd kernel/
+  978  lsa
+  979  la
+  980  cd drivers/
+  981  ls
+  982  cd usb/
+  983  la
+  984  cd serial/
+  985  lks
+  986  ls
+  987  insmod usb-serial-simple.ko 
+  988  sudo insmod usb-serial-simple.ko 
+  989  man mod
+  990  sudo apt-get install mod
+  991  sudo apt-get install insmod
+  992  ls
+  993  cd ..
+  994  ls
+  995  cd ..
+  996  ls
+  997  cd ..
+  998  ls
+  999  cd ..
+ 1000  ls
+ 1001  nano modules.builtin
+ 1002  pwd
+ 1003  tree /
+ 1004  tree
+ 1005  cd 
+ 1006  ls
+ 1007  cd Descargas/
+ 1008  ls
+ 1009  rm -rf Sonora\ Santanera/ Las\ Mejores\ Baladas\ Romanticas\ En\ Espa�ol-A�os\ 70\'/
+ 1010  ls
+ 1011  rm -rf Jose\ Jose\ -\ 60\ Grandes\ Exitos\ de\ Oro\ \[Mp3\]\[www.lokotorrents.com\]/
+ 1012  ls
+ 1013  cd STM32F4XX/
+ 1014  ls
+ 1015  tree
+ 1016  ls
+ 1017  cd USB\ HS\ HID/
+ 1018  ls
+ 1019  cd Libraries/
+ 1020  ls
+ 1021  cd ..
+ 1022  cd Project/
+ 1023  ls
+ 1024  cd USB_Device_Examples/
+ 1025  ls
+ 1026  cd HID/
+ 1027  ls
+ 1028  cd MDK-ARM/
+ 1029  ls
+ 1030  cd STM324xG-EVAL/
+ 1031  ñ
+ 1032  ls
+ 1033  cd ..
+ 1034  ls
+ 1035  cd St
+ 1036  cd STM324xG-EVAL/
+ 1037  ls
+ 1038  cd ..
+ 1039  ls
+ 1040  cd src/
+ 1041  ls
+ 1042  nano app.c 
+ 1043  chmod 777 app.c 
+ 1044  ls
+ 1045  gcc -c app.c 
+ 1046  ls
+ 1047  cd ..
+ 1048  clean
+ 1049  clear
+ 1050  ls
+ 1051  exit
+ 1052  df
+ 1053  ls /dev/
+ 1054  ls
+ 1055  mv ittol/ Documentos/
+ 1056  LS
+ 1057  ls
+ 1058  cd owndrivers/
+ 1059  ls
+ 1060  mkdir 05092017
+ 1061  cd 05092017/
+ 1062  ls
+ 1063  ft.c
+ 1064  nano ft.c
+ 1065  chmod 777 ft.c 
+ 1066  ls
+ 1067  gcc -c ft.c 
+ 1068  nano MAKEFILE
+ 1069  make
+ 1070  chmod 777 MAKEFILE 
+ 1071  ls
+ 1072  ./MAKEFILE 
+ 1073  make
+ 1074  rn MAKEFILE Makefile
+ 1075  nano MAKEFILE 
+ 1076  ls
+ 1077  make
+ 1078  sudo make
+ 1079  gcc -c ft.c 
+ 1080  nano Makefile
+ 1081  sudo make
+ 1082  nano Makefile
+ 1083  make clean
+ 1084  nano Makefile
+ 1085  make clean
+ 1086  make
+ 1087  ls
+ 1088  cd
+ 1089  git clone git@github.com:HectorMendez/LDD.git
+ 1090  ok
+ 1091  ls
+ 1092  git clone git@github.com:HectorMendez/LDD.gitcd owndrivers/
+ 1093  ls
+ 1094* 
+ 1095  git clone HectorMendez@github.com:HectorMendez/LDD.git
+ 1096  ls
+ 1097  cd owndrivers/
+ 1098  ls
+ 1099  ls -la
+ 1100  nano .git/
+ 1101  git init
+ 1102  git add .
+ 1103  git commit -m "Estos son los vanaces del día"
+ 1104  git remote add origin HectorMendez@github.com:HectorMendez/LDD.git
+ 1105  git push origin master
+ 1106  ls
+ 1107  git push origin master
+ 1108  git remote add origin git@github.com:HectorMendez/LDD.git
+ 1109  git remote add git@github.com:HectorMendez/LDD.git
+ 1110  git remote add master git@github.com:HectorMendez/LDD.git
+ 1111  git push origin master
+ 1112  git clone HectorMendez@github.com:HectorMendez/LDD.git
+ 1113  ls
+ 1114  cd
+ 1115  git clone git@github.com:HectorMendez/LDD.git
+ 1116  ls
+ 1117  cd labsol/
+ 1118  cd
+ 1119  cd LDD/
+ 1120  ls
+ 1121  git checkout dev
+ 1122  ls
+ 1123  ls -la
+ 1124  nano .git/
+ 1125  git checkout -b dev
+ 1126  pwd
+ 1127  git pull
+ 1128  git pull github.com dev
+ 1129  git checkout master
+ 1130  pull
+ 1131  git pull
+ 1132  ls
+ 1133  cd owndrivers/
+ 1134  ls
+ 1135  cd 05092017/
+ 1136  ls
+ 1137  nano Makefile
+ 1138  git add Makefile 
+ 1139  git commit -m "This make file is usable code"
+ 1140  git remote -v
+ 1141  git push remote master
+ 1142  git push origin master
+ 1143  ls
+ 1144  rm MAKEFILE 
+ 1145  nano modules.order 
+ 1146  nano scriptsembbeded.sh
+ 1147  chmod 777 scriptsembbeded.sh
+ 1148  ./scriptsembbeded.sh
+ 1149  ls
+ 1150  nano Primerdriver.c
+ 1151  git add scriptsembbeded.sh Primerdriver.c 
+ 1152  git commit -m "cambios ya para dormir" 
+ 1153  git pull origin dev
+ 1154  git pull origin master
+ 1155  git push origin dev
+ 1156  git status
+ 1157  git checkout dev
+ 1158  ls
+ 1159  git checksout master
+ 1160  git checkout master
+ 1161  git push
+ 1162  git push origin master
+ 1163  ls
+ 1164  cd ..
+ 1165  ls
+ 1166  git chekout master
+ 1167  git chekout origin
+ 1168  git checkout origin
+ 1169  cd ..
+ 1170  ls
+ 1171  git checkout master
+ 1172  ls
+ 1173  git push
+ 1174  ls
+ 1175  cd owndrivers/
+ 1176  ls
+ 1177  cd 05092017/
+ 1178  ls
+ 1179  history > bashhoy.txt
